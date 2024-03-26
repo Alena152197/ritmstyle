@@ -174,3 +174,31 @@ padding: 50px 60px;
     padding: 0;
     scroll-behavior: smooth;
 }
+
+.about {
+    display: flex;
+   }
+
+   
+.about-inner {
+       display: flex;
+       width: 100%;
+   }
+   
+.about-item {
+       color: white;
+       width: 648px;
+       height: 470px;
+       font-size: 30px;
+       text-align: right;
+   }
+   
+.about-block {
+       float: right;
+       text-align: center;
+   }
+   
+.container {
+    border-radius: 5px 5px;
+    height: -40px;
+}
