@@ -81,6 +81,7 @@ gap: 66px;
     color: rgb(247, 240, 240);
     font-size: 42px;
     font-weight: 700;
+
 }
 
 .title::before {
@@ -202,3 +203,73 @@ padding: 50px 60px;
     border-radius: 5px 5px;
     height: -40px;
 }
+
+
+.fifi {
+    font-size: 30px;
+    color: white;
+    display: flex;
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    gap: 50px;
+    
+}
+
+.fifi h3 {
+    display: flex;
+    width: 100%;
+    font-size: 25px;
+}
+
+.fifi p {
+    color: white;
+    font-size: 30px;
+    display: table;
+    border-collapse: collapse;
+    width: 40%;
+    vertical-align: top;
+    
+}
+
+.price-content-image {
+    float: right;
+    position: relative;
+    top: -610px;
+    width: 590px;
+    
+}
+
+.price-content-image p {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
