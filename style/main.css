@@ -8,6 +8,8 @@ body {
     margin: 0 auto;
 }
 
+
+
 header {
     
     display: flex;
@@ -27,6 +29,7 @@ header {
 
 .add-session:hover {filter: brightness(1.2);}
 .add-session:active {filter: brightness(1); }
+
 nav {
     display: flex;
     gap: 50px;
@@ -84,6 +87,8 @@ gap: 66px;
 
 }
 
+
+
 .title::before {
     content: url(../style/img/decore-white.svg);
 }
@@ -129,6 +134,7 @@ gap: 66px;
     gap: 50px;
     align-items: center;
     justify-content: center;
+    
 }
 
 .feetback-item {
@@ -380,6 +386,83 @@ padding: 50px 60px;
     width: 500px;
     
 }
+
+.box {
+    width: 1298px;
+    height: 530px;
+    border: 2px solid #018ABE ;
+    border-radius: 20px;
+    
+}
+
+.text img {
+    width: 564px;
+    height: 430px;
+    top: 50px;
+    left: 60px;
+    border-radius: 10px;
+    margin: 50px 60px;
+}
+
+.text .news-date {
+    margin-bottom: 20px;
+    
+
+}
+
+.format-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 161px;
+}
+
+.format-item div h2{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.format-item div p {
+    margin: 10px 0px;
+    font-size: 16px;
+    font-weight: 300px;
+    color: rgb(196, 192, 192);
+    font-family: Verdana, sans-serif;
+    line-height: 140%;
+    width: 500px;
+
+    
+}
+
+.text {
+    display: flex;
+}
+
+.text  .format-item {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
